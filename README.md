@@ -1,5 +1,5 @@
 # Reproducible_Research_week_2_project
-=====================================
+
 ##Introduction of Assignment
 ============================
 It is now possible to collect a large amount of data about personal
